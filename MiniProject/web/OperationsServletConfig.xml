@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"> <!-- This line needs to be here! -->
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<properties>
+<comment>Operations Servlet Configuration Properties for Mini Project (Books jsps and servlets)</comment>
+<entry key="dbDriver">org.apache.derby.jdbc.ClientDriver</entry>
+<entry key="dbUrl">jdbc:derby://localhost:1527/Practice</entry>
+<entry key="dbTable">PRACTICE.BOOKS</entry>
+<entry key="dbBookName">Bookname</entry>
+<entry key="dbOneYear">Oneyear</entry>
+<entry key="dbRecommend">recommend</entry>
+<entry key="user">practice</entry>
+<entry key="password">practice</entry>
+</properties>
